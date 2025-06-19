@@ -15,12 +15,6 @@ A beautiful and functional deep learning project that classifies images of dogs 
 
 ---
 
-## 📸 Demo
-
-https://github.com/your-username/dog-or-cat-classifier/assets/demo.gif *(optional if you have a screen recording or GIF)*
-
----
-
 ## 🛠️ Tech Stack
 
 - Python 3
